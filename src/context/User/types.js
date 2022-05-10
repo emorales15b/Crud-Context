@@ -1,0 +1,5 @@
+export const GET_USERS = 'GET_USERS'
+export const GET_DELETE_USER = 'GET_DELETE_USER'
+export const GET_ADD_USER = 'GET_ADD_USER'
+export const GET_SHOW_EDIT_USER = 'GET_SHOW_EDIT_USER'
+export const GET_EDIT_USER = 'GET_EDIT_USER'
